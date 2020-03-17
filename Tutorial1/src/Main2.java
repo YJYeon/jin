@@ -17,6 +17,5 @@ public class Main2 {
 			//e.printStackTrace();
 			System.out.println("파일을 읽어오는 도중에 오류가 발생했다.");
 		} 
-
 	}
 }
